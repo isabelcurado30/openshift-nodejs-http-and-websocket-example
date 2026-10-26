@@ -6,3 +6,4 @@ https://github.com/openshift/origin-server/tree/master/cartridges/openshift-orig
 
 wscat --connect ws://nodesocket-cdaley.rhcloud.com:8000
 
+Proyecto analizado con SonarCloud.
